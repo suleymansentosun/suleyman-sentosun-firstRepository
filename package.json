@@ -1,0 +1,29 @@
+{
+  "name": "suleyman-sentosun",
+  "version": "1.0.0",
+  "description": "Bu bir deneme dosyasıdır",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "suleyman": "echo 'Benim adım Süleyman'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Süleyman Şentosun",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.1",
+    "nodemailer": "^6.3.0",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suleymansentosun/suleyman-sentosun-firstRepository.git"
+  }
+}
